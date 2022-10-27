@@ -1,4 +1,4 @@
-I had a brief phase with Blender because I was very impressed with the software & it's physics engine & it was free & it is much better than coding manually.
+I used Blender because I was very impressed with the software & it's physics engine & it was free & it is much better than coding manually.
 
 I liked the fact that I can make any procedural material from any 3D model that could be conceived & wanted to try out my first Blender model.
 
